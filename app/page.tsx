@@ -209,7 +209,7 @@ export default function LuxuryPortfolio() {
       {/* ================= FOOTER ================= */}
       <footer className="py-20 bg-[#3D362F] text-[#FAF7F2]/40 text-[10px] uppercase tracking-[0.4em] px-10">
         <div className="max-w-7xl mx-auto flex flex-col md:row justify-between items-center gap-12 text-center md:text-left">
-          <p className="font-bold">© 2026 Atelier Vistara Architecture — All Rights Reserved</p>
+          <p className="font-bold">© Designed By WEBSITES CREATORSHUB</p>
           <div className="flex items-center gap-3">
             <MapPin size={12} /> Studios: New Delhi • Udaipur • Mumbai
           </div>
